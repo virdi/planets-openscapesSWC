@@ -1,2 +1,5 @@
+# Ignore all .dat files
 *.dat
+# Do not ignore a.dat
+!a.dat
 results/*
